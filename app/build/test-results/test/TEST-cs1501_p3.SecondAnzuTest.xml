@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1501_p3.SecondAnzuTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-11-05T01:24:02" hostname="zu-mac.local" time="0.176">
+  <properties/>
+  <testcase name="Add/Get" classname="cs1501_p3.SecondAnzuTest" time="0.083"/>
+  <testcase name="Remove" classname="cs1501_p3.SecondAnzuTest" time="0.027"/>
+  <testcase name="Update" classname="cs1501_p3.SecondAnzuTest" time="0.021"/>
+  <testcase name="Get for specific make/model" classname="cs1501_p3.SecondAnzuTest" time="0.02"/>
+  <testcase name="Get from all" classname="cs1501_p3.SecondAnzuTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
